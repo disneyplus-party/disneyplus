@@ -1,0 +1,583 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header {
+        width: 100%;
+        height: auto;
+        background-color: rgb(233, 30, 30);
+
+}
+img.site-image.logo {
+    padding: 0px 0px 0px 0px;
+}
+
+.button_five1 {
+    text-align: end;
+    padding: 30px 40px 30px 0px;
+}
+.btn_five1 {
+    padding: 10px 70px 10px 70px;
+    background-color: #FFF;
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 0px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.button_five1 a:hover {
+    background-color: #4CAF50;
+    color: #fff;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background: #0c266d !important;
+    display: flex;
+    flex-direction: column;
+    padding: 1px 0px 5px 0px ;
+   
+    
+}
+.main_section {
+    padding: 40px 0px 20px 0px;
+    background-color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+video.video {
+    width: 100%;
+    height: 100%;
+}
+.content span{
+    padding: 0px 0px 10px 0px;
+    text-align: LEFT;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    display: inline;
+}
+.content h1{
+            padding: 0px 0px 10px 0px;
+            text-align: LEFT;
+            font-size: 35px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            display: inline;
+}
+
+.content p{
+            padding: 10px 0px 10px 0px;
+            font-size: 18px;
+            font-family: Arial, Helvetica, sans-serif;     
+}
+.paragraph_break {
+    font-size: 18px;
+}
+.button_five2 {
+    margin: 30px 0px 10px 0px;
+}
+.btn_five {
+    padding: 10px 70px 10px 70px;
+    background-color: #0c266d;
+    color: #FFF;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 0px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.button_five2 a:hover {
+    background-color: #4CAF50;
+    color: #FFF;
+}
+
+.content2 h2 {
+    padding: 0px 0px 10px 0px;
+    font-size: 33px;
+    font-weight: 600;
+}
+.content2 p{
+                   font-size: 18px;
+                   font-family: Arial, Helvetica, sans-serif;
+                    text-align: left;
+                    padding-bottom: 10px;
+                   
+}  
+
+ul.kau {
+    font-size: 18px;
+    padding: 0px 0px;
+    line-height: 1.7;
+    padding: 10px 0px 0px 00px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+ul.akl{
+        font-size: 18px;
+        padding: 0px 0px;
+        line-height: 2;
+        padding: 0px 0px 0px 00px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.content2 h2 {
+    padding: 0px 0px 10px 0px;
+}
+.button_five3 {
+    margin: 30px 0px 0px 0px;
+    text-align: left;
+    padding: 5px 0px;
+}
+    .button_five3 a:hover {
+        background-color: #4CAF50;
+        color: #FFF;
+    }
+    
+    .sub_heading h2 {
+        font-size: 35px;
+        padding: 0px 0px 10px 0px;
+        font-weight: 600;
+    }
+    .sub_heading p {
+        font-size: 18px;
+        padding: 0px 30px 10px 0px;
+        
+    }
+    ul.klkl{
+        font-size: 18px;
+        padding: 0px 0px;
+        line-height: 2;
+        padding: 0px 0px 0px 0px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.content_third {
+    padding: 0px 20px;
+}
+ul {
+    padding: 0px 0px;
+}
+.content_third h2{
+            
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+            text-align: left;
+            padding: 0px 0px 0px 10px;
+    }  
+.content_third p{
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 20px 0px 0px 30px;
+            text-align: left;
+     
+} 
+
+.third_ul UL{
+        font-size: 18px;
+        padding: 0px 0px;
+        line-height: 2;
+        padding: 0px 0px 10px 00px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.section{
+    padding: 20px 0px 0px 0px;
+   
+    
+}
+
+.name-toggle-btn1 {
+background-color: #f0f0f0;
+border: 1px solid #ccc;
+border-radius: 5px;
+color: #444;
+cursor: pointer;
+padding: 10px 20px;
+text-align: left;
+outline: none;
+font-size: 20px;
+line-height: 1.5em;
+font-weight: 500;
+transition: background-color 0.3s ease;
+width: 100%;
+    margin: 10px 0px 0px 0px;
+
+box-shadow: 0px 5px 5px 0px #FFF;
+}
+
+.name-toggle-btn1.active {
+background-color: #4CAF50;
+color: white;
+}
+
+.panel {
+padding: 0px 20px;
+display: none;
+overflow: hidden;
+background-color: white;
+border: 1px solid #ccc;
+border-top: none;
+}
+.panel p {
+    padding-top: 10px;
+}
+.button_five {
+    margin: 15px 0px;
+    padding-bottom: 20px;
+}
+.button_five a:hover {
+    background-color: #4CAF50;
+    color: #FFF;
+}
+
+.section h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+    color: #FFF;
+
+
+}
+
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: #0c266d;
+    padding: 10px 0px 30px 0px;
+    border-top: 5px solid #FFF;
+    color:#FFF;
+    
+}
+.footer_ul{
+    padding: 0px 100px 0px 100px;
+}
+.footer p {
+    font-size: 14px;
+    padding: 0px 65px;
+    margin-left: 100px;
+    margin-top: -24px;
+}
+
+.button_footer {
+    text-align: center;
+    padding: 40px 40px 30px 0px;
+    margin-bottom: 20px;
+}
+.btn_footer {
+    padding: 10px 70px 10px 70px;
+    background-color:#FFF;
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 0px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.button_footer a:hover {
+    background-color: #4CAF50;
+    color:#FFF;
+}
+
+.span {
+    font-weight: 100;
+}
+.h2, h2 {
+    font-size: 2rem;
+    padding: 25px 0px;
+}
+li.container-dark_li-1 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 20px 0px;
+}
+.span {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0px 0px;
+}
+.main_section_footer {
+    padding: 40px 0px 20px 0px;
+    background-color: #0c266d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+@media (min-width: 280px) and (max-width: 575px) {
+
+    img.site-image.logo {
+        padding: 17px 0px 0px 50px;
+    }
+   
+    .btn_five1 {
+        padding: 15px 30px 15px 30px;
+    }
+    .btn_five1 {
+        padding: 10px 50px 10px 50px;
+        background-color: #FFF;
+        color: black;
+        font-weight: 500;
+        font-size: 20px;
+        margin-left: 0px;
+        text-decoration: none;
+        border-radius: 50px;
+    }
+    .button_five1 {
+        text-align: end;
+        padding: 28px 0px 30px 0px;
+    }
+    .btn_five {
+        padding: 10px 40px 10px 40px;
+        background-color: #0c266d;
+        color: #FFF;
+        font-weight: 500;
+        font-size: 20px;
+        margin-left: 0px;
+        text-decoration: none;
+        border-radius: 50px;
+    }
+    .content span{
+        padding: 0px 0px 10px 0px;
+        text-align: LEFT;
+        font-size: 22px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+        display: inline;
+    }
+    .content h1 {
+        padding:    0px 0px 20px 0px;
+        text-align: LEFT;
+        font-size: 22px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+    }
+    .content2 h2 {
+        padding: 0px 0px 10px 0px;
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .paragraph_break p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 0px 10px;
+    }
+    .button_five2 {
+        margin: 30px 0px 0px 0px;
+    }
+ 
+    .sub_heading h2 {
+        font-size: 20px;
+        padding: 10px 20px 9px 20px;
+    }
+    .h2, h2 {
+        font-size: 20px;
+        padding: 10px 0px 13px 0px;
+    }
+
+    .section {
+        padding: 10px 0px 39px 0px;
+        
+    }
+    .container.dark {
+        background: #000;
+        max-width: 100%;
+        padding: 20px 20px;
+    }
+
+    li.container-dark_li-1 {
+        font-size: 14px;
+        line-height: 1;
+        line-height: 1.5;
+        font-weight: 400;
+        padding: 15px 0px;
+    }
+    .button_five {
+        margin: 15px 10px;
+        text-align: center;
+    }
+    span {
+        font-size: 14px;
+      
+        line-height: 0.2;
+        font-weight: 400;
+        padding: 15px 0px;
+    }
+    .section p {
+        margin-top: 10px;
+        margin-bottom: 1rem;
+    }
+
+    .button_footer {
+        text-align: center;
+        padding: 30px 0px 30px 0px;
+    }
+    .main_section {
+        padding: 30px 15px 20px 15px;
+        background-color: #f1f1f1;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    ul {
+        padding: 0px 0px;
+    }
+    .button_five3 {
+        margin: 30px 0px;
+        text-align: left;
+    }
+    .sub_heading h2 {
+        font-size: 20px;
+        padding: 0px 0px 10px 0px;
+        font-weight: 700;
+    }
+    .content_third {
+        padding: 0px 10px;
+    }
+    .button_five {
+        margin: 15px 0px;
+        text-align: center;
+    }
+    .main_section_footer {
+        padding: 30px 10px 20px 10px;
+        background-color: #0c266d;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .btn_footer {
+        padding: 10px 40px 10px 40px;
+        background-color: #FFF;
+        color: black;
+        font-weight: 500;
+        font-size: 20px;
+        margin-left: 0px;
+        text-decoration: none;
+        border-radius: 50px;
+    }
+
+    }
+    @media (min-width: 575px) and (max-width: 767px) {
+
+        .button_1 {
+            text-align: right;
+            margin: -70px 0px 30px 0px;
+        }
+        .btn_1 {
+            padding: 10px 50px 10px 50px;
+            background-color: #1de783;
+            color: #FFF;
+            font-weight: 500;
+            font-size: 20px;
+            margin-left: 0px;
+            text-decoration: none;
+            border-radius: 50px;
+        }
+        .button_1 a:hover {
+            background-color:#fff;
+            color: black;
+        }
+        .button_five1 {
+            text-align: end;
+            padding: 0px 0px 50px 0px;
+            margin-top: -50px;
+        }
+        img.site-image.logo {
+                    padding: 35px 0px 0px 0px;
+                    width: auto;
+                    height: 100px;
+        }
+        .sub_heading h2 {
+                    font-size: 33px;
+                    padding: 0px 0px 10px 0px;
+                    text-align: left;
+                    font-weight: 600;
+    }
+
+        ul.lkl {
+            padding: 0px 0px;
+        }
+        p {
+            margin-top: 0;
+            margin-bottom: 1rem;
+            padding-top: 10px;
+        }
+        .paragraph_break {
+            margin: 7px 1px 0px 0px;
+        }
+        .content span {
+            padding: 0px 0px 10px 0px;
+            text-align: LEFT;
+            font-size: 28px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            display: inline;
+        }
+        .content h1 {
+            padding: 0px 0px 10px 0px;
+            text-align: LEFT;
+            font-size: 28px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 700;
+            display: inline;
+        }
+        .content2 h2 {
+            font-size: 33px;
+            padding: 0px 0px;
+            font-weight: 600;
+        }
+    
+    }
+    @media (min-width: 768px) and (max-width: 1200px) {
+
+        .paragraph_break {
+            margin: 0px 1px 0px 0px;
+            overflow: scroll;
+            height: 250px;
+        }
+        ul.kiki {
+            padding: 0px 0px;
+            overflow: scroll;
+            height: 340px;
+        }
+        ul.lkl {
+            padding: 0px 17px;
+            overflow: scroll;
+            height: 250px;
+        }
+
+        .content_third {
+            padding: 0px 20px;
+            overflow: scroll;
+            height: 230px;
+        }
+        ul.akl {
+            font-size: 18px;
+            padding: 0px 0px;
+            line-height: 2;
+            padding: 0px 0px 0px 00px;
+            font-family: Arial, Helvetica, sans-serif;
+            overflow: scroll;
+            height: 200px;
+        }
+        ul.kau {
+            font-size: 18px;
+            padding: 0px 0px;
+            line-height: 1.7;
+            padding: 15px 0px 0px 00px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
